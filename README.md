@@ -1,7 +1,7 @@
 ## Tech Sharing
-1. Event Loop@linjiayu
-2. Redux code@linjiayu
-3. Redux / Koa Middleware@linjiayu
-4. Sorting Algorithms@linjiayu
-5. CRC32@linjiayu
-6. ML@linjiayu
+- Event Loop@linjiayu
+- Redux code@linjiayu
+- Redux / Koa Middleware@linjiayu
+- Sorting Algorithms@linjiayu
+- CRC32@linjiayu
+- Machine Learning@linjiayu
